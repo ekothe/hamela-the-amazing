@@ -26,7 +26,7 @@ interests = [
   "Brain stimulation",
   "Motor imagery",
   "Neuroscience",
-  "Psychology"
+  "Psychology",
   "Motor skills/development"
 ]
 
