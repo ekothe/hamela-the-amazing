@@ -27,6 +27,7 @@ interests = [
   "Motor imagery",
   "Neuroscience",
   "Psychology"
+  "Motor skills/development"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -35,7 +36,7 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "PhD in Psychology"
   institution = "Deakin University"
   year = 2022
 
