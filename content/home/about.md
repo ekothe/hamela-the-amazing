@@ -11,3 +11,5 @@ title = "Biography"
 # This should be the username of a profile in your `content/author/` folder.
 author = "Pam Barhoun"
 +++
+
+Pam Barhoun is a PhD student in the Cognitive Neuroscience Unit (CNU) at Deakin University.
